@@ -34,9 +34,11 @@ function Navbar() {
         <Col className="search">
           <Form inline>
             <FormControl type="text" placeholder="Search" className="mr-sm-2" />
-            <Form.Label><i class="fas fa-search"></i></Form.Label>
+            <span><i class="fas fa-search"></i></span>
           </Form>
         </Col>
+
+				
       </Row>
     </div>
   );

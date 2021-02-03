@@ -2,5 +2,4 @@
 
 ![Netflix](./src/images/banner.png) 
 
-# Netflix Landing Page
-[Netflix Trailer](./src/images/video1.png)
+![Trailer](./src/images/video1.png)

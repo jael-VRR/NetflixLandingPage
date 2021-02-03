@@ -2,4 +2,4 @@
 
 ![Netflix](./src/images/banner.png) 
 
-![Trailer](./src/images/video1.png)
+![ScreenShot](./src/images/video1.png)

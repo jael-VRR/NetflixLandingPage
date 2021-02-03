@@ -1,0 +1,8 @@
+.close-video {
+  top: 30px;
+  right: 20px;
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+  filter: invert(1);
+}
